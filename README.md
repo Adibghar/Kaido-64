@@ -86,3 +86,7 @@ React • Flask • Qt • Git • Linux • Kali Linux
 * 💻 GitHub: https://github.com/Kaido-64
 
 ---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Kaido-64/Kaido-64/blob/output/github-contribution-grid-snake.svg)
